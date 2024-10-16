@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|c:\\users\\willy.casana\\source\\repos\\webappsample3di\\webappsample3di\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|solutionrelative:webappsample3di\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|c:\\users\\willy.casana\\source\\repos\\webappsample3di\\webappsample3di\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|solutionrelative:webappsample3di\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|c:\\users\\willy.casana\\source\\repos\\webappsample3di\\webappsample3di\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|solutionrelative:webappsample3di\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|c:\\users\\willy.casana\\source\\repos\\webappsample3di\\webappsample3di\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|solutionrelative:webappsample3di\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|c:\\users\\willy.casana\\source\\repos\\webappsample3di\\webappsample3di\\services\\regularcustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|solutionrelative:webappsample3di\\services\\regularcustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|c:\\users\\willy.casana\\source\\repos\\webappsample3di\\webappsample3di\\services\\premiumcustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|solutionrelative:webappsample3di\\services\\premiumcustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|c:\\users\\willy.casana\\source\\repos\\webappsample3di\\webappsample3di\\services\\smsnotificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|solutionrelative:webappsample3di\\services\\smsnotificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|c:\\users\\willy.casana\\source\\repos\\webappsample3di\\webappsample3di\\services\\emailnotificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|solutionrelative:webappsample3di\\services\\emailnotificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|c:\\users\\willy.casana\\source\\repos\\webappsample3di\\webappsample3di\\interfaces\\inotificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF7B24A-D896-4273-B9B7-F9D07B8E7C30}|WebAppSample3DI\\WebAppSample3DI.csproj|solutionrelative:webappsample3di\\interfaces\\inotificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebAppSample3DI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebAppSample3DI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:23:28.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAppSample3DI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAppSample3DI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:23:08.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppSample3DI\\Program.cs",
+              "ToolTip": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Program.cs",
+              "RelativeToolTip": "WebAppSample3DI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:21:30.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegularCustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Services\\RegularCustomerService.cs",
+              "RelativeDocumentMoniker": "WebAppSample3DI\\Services\\RegularCustomerService.cs",
+              "ToolTip": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Services\\RegularCustomerService.cs",
+              "RelativeToolTip": "WebAppSample3DI\\Services\\RegularCustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:19:57.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "WebAppSample3DI\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "WebAppSample3DI\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:17:45.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PremiumCustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Services\\PremiumCustomerService.cs",
+              "RelativeDocumentMoniker": "WebAppSample3DI\\Services\\PremiumCustomerService.cs",
+              "ToolTip": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Services\\PremiumCustomerService.cs",
+              "RelativeToolTip": "WebAppSample3DI\\Services\\PremiumCustomerService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:18:23.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmsNotificationSender.cs",
+              "DocumentMoniker": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Services\\SmsNotificationSender.cs",
+              "RelativeDocumentMoniker": "WebAppSample3DI\\Services\\SmsNotificationSender.cs",
+              "ToolTip": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Services\\SmsNotificationSender.cs",
+              "RelativeToolTip": "WebAppSample3DI\\Services\\SmsNotificationSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:17:11.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailNotificationSender.cs",
+              "DocumentMoniker": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Services\\EmailNotificationSender.cs",
+              "RelativeDocumentMoniker": "WebAppSample3DI\\Services\\EmailNotificationSender.cs",
+              "ToolTip": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Services\\EmailNotificationSender.cs",
+              "RelativeToolTip": "WebAppSample3DI\\Services\\EmailNotificationSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:16:16.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "INotificationSender.cs",
+              "DocumentMoniker": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Interfaces\\INotificationSender.cs",
+              "RelativeDocumentMoniker": "WebAppSample3DI\\Interfaces\\INotificationSender.cs",
+              "ToolTip": "C:\\Users\\willy.casana\\source\\repos\\WebAppSample3DI\\WebAppSample3DI\\Interfaces\\INotificationSender.cs",
+              "RelativeToolTip": "WebAppSample3DI\\Interfaces\\INotificationSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:15:47.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
